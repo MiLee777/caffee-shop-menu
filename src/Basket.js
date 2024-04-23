@@ -1,4 +1,3 @@
-
 function Basket({ orderList, clearOrderList, removeItem }) {
     const calculateThetotalPrice = () => {
         let totalPrice = 0;
